@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/supermanmwg/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/supermanmwg/Study/alterpic/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-e3b34baf54d5943095c24c56e1585c6310b418fd.jar" />
+    </item>
+    <item
+        jar="/home/supermanmwg/Study/alterpic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/supermanmwg/Study/alterpic/app/build/intermediates/pre-dexed/debug/classes-0a0137138db8706f7ade7086940bd1922c1083cf.jar" />
+    </item>
+    <item
+        jar="/home/supermanmwg/Study/alterpic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/supermanmwg/Study/alterpic/app/build/intermediates/pre-dexed/debug/classes-a5a97059ff5c0bfa1fc7032a9882a0d94c4913d2.jar" />
+    </item>
+    <item
+        jar="/home/supermanmwg/Study/alterpic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/supermanmwg/Study/alterpic/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-5c02c21670700af7174d155abb0dc482f2bfcd5f.jar" />
+    </item>
+
+</items>
